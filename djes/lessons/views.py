@@ -1,13 +1,10 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse, Http404
 
 from .models import Lesson
 
 def lesson_view(request, title):
-	try:
-		lesson = Lesson.objects.get(title=title)
-	except Lesson.DoesNotExist:
-		raise Http404
-		
+	lesson = get_object_or_404(Lesson, title=title)
+
 	return HttpResponse('Ok...')
 
