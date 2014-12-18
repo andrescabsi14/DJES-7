@@ -1,3 +1,13 @@
 from django.shortcuts import render
+from django.http import HttpResponse, Http404
 
-# Create your views here.
+from .models import Lesson
+
+def lesson_view(request, title):
+	try:
+		lesson = Lesson.objects.get(title=title)
+	except Lesson.DoesNotExist:
+		raise Http404
+		
+	return HttpResponse('Ok...')
+

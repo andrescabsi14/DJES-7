@@ -7,4 +7,7 @@ urlpatterns = patterns('',
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
+
+    #Lessons
+    url(r'lessons/(?P<title>[\w\-]+)/', 'lessons.views.lesson_view', name='lesson_view'),
 )
