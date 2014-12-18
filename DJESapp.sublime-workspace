@@ -1,0 +1,855 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"p",
+				"p	padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"colo",
+				"color_primary"
+			],
+			[
+				"color",
+				"color_primary"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"rg",
+				"right"
+			],
+			[
+				"pr",
+				"color_primary"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"LI",
+				"li"
+			],
+			[
+				"lis",
+				"list	list-style-type"
+			],
+			[
+				"font-we",
+				"font-weight--light"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"email",
+				"email_body"
+			],
+			[
+				"ema",
+				"email_body"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"pla",
+				"planActual"
+			],
+			[
+				"pl",
+				"planActual"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"td",
+				"tdcolumna1"
+			],
+			[
+				"col",
+				"columnas"
+			],
+			[
+				"tdpre",
+				"tdprecio2"
+			],
+			[
+				"bt",
+				"btn-verde"
+			],
+			[
+				"btn",
+				"btn-negro"
+			],
+			[
+				"contene",
+				"contenedor_pasos"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"id",
+				"idPlantillaBlog"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"az",
+				"azul-twitter"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"obje",
+				"objetos"
+			],
+			[
+				"S",
+				"Superior_nav_pages"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mrgin",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"esta",
+				"estaRegistradoAnunciante"
+			],
+			[
+				"au",
+				"autor_blogpostlist"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"owl",
+				"owl-carousel"
+			],
+			[
+				"var",
+				"variablePrecioAhora"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"pre",
+				"precio"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bear",
+				"bearTemplates"
+			],
+			[
+				"html",
+				"htmlTemplates"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"hml",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"emmet html",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"html5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"emmet html5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML5"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet html5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"snippet lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snippet lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"meta",
+				"Snippet: <meta name=\"\" content=\"\">"
+			],
+			[
+				"htl",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"PA",
+				"Preferences: Browse Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/_base.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/styles.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/index.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/nosotros.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/metodo.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/contactenos.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/convenio-microsoft.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/js/index.js",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/credits.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/compra-excel.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/compra/compra-excel-basico.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/_utilities.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/compra/compra-excel-macros.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/compra/compra-excel-tablas-dinamicas.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/compra/compra-excel-graficas.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/_config.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/_bootstrap-variables.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/js/contactenos.js",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/js/compra.js",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/js/metodo.js",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/js/nosotros.js",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sftp-config.json",
+		"/Users/innov/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/index.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/index2.html",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/scss/_config.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/scss/_utilities.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/scss/_base.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/scss/_settings.scss",
+		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/stylesheets/_config.scss",
+		"/Users/innov/Documents/Development/forosSemanaFrontend/public/index.php",
+		"/Users/innov/Documents/Development/pln/index.php",
+		"/Users/innov/Documents/Development/pln/test.css",
+		"/Users/innov/Documents/Development/pln/test.scss",
+		"/Users/innov/Documents/Development/PlanNegocios/sass/screen.scss",
+		"/Users/innov/Documents/Development/PlanNegocios/sass/index.scss",
+		"/Users/innov/Documents/Development/Laravel/sublime/laravel.sublime-project",
+		"/Users/innov/Documents/Development/Laravel/index.php",
+		"/Users/innov/forosSemanaFrontend/public/js/index.js",
+		"/Users/innov/Documents/Development/drupal7/themes/Custom/theme_001/theme_001.info",
+		"/Users/innov/Documents/Development/drupal7/themes/Custom/theme_001/templates/page.tpl.php",
+		"/Users/innov/Documents/Development/drupal7/sites/default/settings.php",
+		"/Users/innov/Documents/Development/php/public/shirts.php",
+		"/Users/innov/Documents/Development/php/public/inc/header.php",
+		"/Users/innov/Documents/Development/php/public/inc/footer.php",
+		"/Users/innov/Documents/Development/php/public/contact.php",
+		"/Users/innov/Documents/Development/php/public/index.php",
+		"/Users/innov/Documents/Development/juventus/layoutcss/general.css",
+		"/Users/innov/Documents/Development/juventus/inicio.php",
+		"/Users/innov/Documents/Development/juventus/nuestra_compania.php",
+		"/Users/innov/Documents/Development/juventus/tips.php",
+		"/Users/innov/Documents/Development/juventus/contacto.php",
+		"/Users/innov/Documents/Development/juventus/footer_menu.php",
+		"/Users/innov/Documents/Development/juventus/despigmentante.php",
+		"/Users/innov/Documents/Development/juventus/corporales.php",
+		"/Users/innov/Documents/Development/juventus/hidratantes.php",
+		"/Users/innov/Documents/Development/juventus/protectores-solares.php",
+		"/Users/innov/Documents/Development/juventus/antiedad-reparador.php",
+		"/Users/innov/Documents/Development/juventus/antiedad.php",
+		"/Users/innov/Documents/Development/juventus/copyright.php",
+		"/Users/innov/Documents/Development/juventus/index.php",
+		"/Users/innov/Documents/Development/juventus/juventus.php",
+		"/Users/innov/Documents/Development/juventus/test.php",
+		"/Users/innov/Documents/Development/juventus/ventas.php",
+		"/Users/innov/Documents/Development/juventus/corpoa.php",
+		"/Users/innov/Documents/Development/juventus/extryax.php",
+		"/Users/innov/Documents/Development/juventus/anti-tempo-rostro-55.php",
+		"/Users/innov/Documents/Development/juventus/anti-tempo-ojos-55.php",
+		"/Users/innov/Documents/Development/juventus/anti-tempo-rostro-40.php",
+		"/Users/innov/Documents/Development/juventus/ojos-a.php",
+		"/Users/innov/Documents/Development/juventus/reducorp.php",
+		"/Users/innov/Documents/Development/juventus/protcell.php",
+		"/Users/innov/Documents/Development/juventus/emclarex.php",
+		"/Users/innov/Documents/Development/juventus/biosun.php",
+		"/Users/innov/Documents/Development/juventus/anti-tempo.php",
+		"/Users/innov/Documents/Development/juventus/rostro-a.php",
+		"/Users/innov/Documents/Development/juventus/productos/emclarex.php",
+		"/Users/innov/Documents/Freelance/Gonzalo/juventus/inicio.php",
+		"/Users/innov/Documents/Development/wordpress/wp-content/themes/innov/style.css.css",
+		"/Users/innov/Documents/Development/wordpress/wp-content/themes/twentyfourteen/index.php",
+		"/Users/innov/Documents/Producción/1.Tools/Newsletter tpl/litmus_stamplia_templates/Simples/index.html",
+		"/Users/innov/Documents/Producción/1.Tools/Newsletter tpl/responsive-email-templates/newsletter.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/css/styles.css",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/sftp-config.json",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/css/theme.min.css",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/metodo.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/_System/ContentHolders/pie-de-pagina.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/_System/ContentHolders/encabezado.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/metodo.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/inicio.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/js/fsvs.js",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/blog/blog.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/robots.txt",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/css/styles.styl",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-system.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/WebApps/Caracteristicas/list.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/contactanos.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/demostracion-gratuita.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/Precio.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/muy-pronto-corporativo.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/assets/js/map.min.js",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Inicio-de-Sesion-innov.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/atrae.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/WebApps/Mis Planes/detail.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Video.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/contactenos.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Nosotros.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Servicios.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Blanca.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Negro.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Madera2.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Madera.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/_System/ContentHolders/menu.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/ModuleTemplates/Menu/Default/container.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Blanca.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/img/demo/Mockup_7.jpg",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/politica-privacidad.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/_System/ContentHolders/body-scripts.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/SEO/Keywords Research/Brainstorming-keywordsINNOV.txt",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/terminos-servicio.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/terminos-servicio.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/Announcement/list.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/Inicio.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/WebApps/Mi Empresa/list.html",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/ModuleTemplates/Webapps/testimonios/inicio.tpl",
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/WebApps/Testimonios/list.html"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".carousel-control",
+			"#4EA635",
+			"testimonials_main_title",
+			"<a class=\"buy_btn_link pull-right\"",
+			"<label ",
+			".container_compra_curso .input_formulario_cupon",
+			".input_formulario_cupon",
+			"{",
+			"main_courses_slider",
+			".carousel-indicators li",
+			"$bootstrap-sass-asset-helper",
+			"fonts/",
+			"glyph",
+			"$bootstrap-sass-asset-helper",
+			"p",
+			"span",
+			"active",
+			"p>",
+			"p",
+			"	float: left;",
+			"<span></span>",
+			".carousel-indicators li",
+			"main_courses_slider",
+			"/img",
+			"/",
+			"href",
+			"src",
+			"fonts",
+			"'",
+			"img/",
+			"'/",
+			"\"/",
+			"'/",
+			"href",
+			"src",
+			"/img/",
+			"src",
+			"/img/",
+			"li",
+			"//",
+			"// ",
+			"//",
+			"         ",
+			"//",
+			"brand-success",
+			"//",
+			"=\"\"></",
+			"Mirror Edge",
+			"assets/fullimage",
+			"owl-item",
+			"<h1>",
+			",\n",
+			"h2",
+			"href=\"https://www.youtube.com/",
+			"conocimientos",
+			"#main_courses_slider .owl-dots #slide2:hover span, #main_courses_slider .owl-dots #slide2.active span",
+			"basico",
+			"tablas",
+			"graficas",
+			"basico",
+			"clock",
+			"duracion ",
+			"bottom",
+			"color:",
+			"background:",
+			" .owl-carousel",
+			" row",
+			"graficas",
+			"basico",
+			"container_slider",
+			"h4",
+			"item",
+			"<h4>",
+			"</strong>",
+			"<strong>",
+			"</p>",
+			"<p>",
+			"header",
+			"}\n",
+			"<div>",
+			"</p>",
+			"<p>",
+			".nav",
+			"{",
+			"</span>",
+			"<a href=\"\">",
+			"</li>",
+			"<a h",
+			"<span c",
+			"left center",
+			"i class=\"\"></i>",
+			"col-md",
+			"columns",
+			" col-md-2",
+			"span",
+			"large-4",
+			"large-2",
+			"large-12",
+			"// $",
+			"//",
+			"h1",
+			"div",
+			"chmod",
+			"chmod a+w sites/default/settings.php",
+			"/n",
+			"name",
+			"rastreo de cambio",
+			"rastreo de cambios",
+			"section",
+			".active",
+			":hover",
+			"background: rgb(204, 204, 204);",
+			".map_container .map .depto1 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 8px;\n  background: rgb(204, 204, 204);\n  left: 21px;\n}\n.map_container .map .depto2 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 4px;\n  background: rgb(204, 204, 204);\n  left: 5px;\n}\n.map_container .map .depto3 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 36px;\n  background: rgb(204, 204, 204);\n  left: 23px;\n}\n.map_container .map .depto4 a:hover\n {\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 33px;\n  background: rgb(204, 204, 204);\n  left: 27px;\n}\n.map_container .map .depto5 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 7px;\n  background: rgb(204, 204, 204);\n  left: 14px;\n}\n.map_container .map .depto6 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 20px;\n  background: rgb(204, 204, 204);\n  left: 14px;\n  }\n.map_container .map .depto7 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 48px;\n  background: rgb(204, 204, 204);\n  left: 45px;\n}\n.map_container .map .depto8 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 4px;\n  background: rgb(204, 204, 204);\n  left: 3px;\n}\n.map_container .map .depto9 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 24px;\n  background: rgb(204, 204, 204);\n  left: 29px;\n}\n.map_container .map .depto10 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 10px;\n  background: rgb(204, 204, 204);\n  left: 38px;\n}\n.map_container .map .depto11 a:hover\n{\n  width: 10px;\n  height: 10px;\n  cursor: pointer;\n  border-radius: 50%;\n  position: absolute;\n  top: 25px;\n  background: rgb(204, 204, 204);\n  left: 28px;\n}",
+			".map .depto",
+			"background: url",
+			".map .depto",
+			"Io",
+			"II",
+			"FEDCO",
+			"PASTEUR",
+			"CARULLA",
+			"ÉXITO",
+			"EXITO",
+			"PIEL",
+			"DERMATOLOGICA",
+			"MEDIPIEL",
+			"LOCATEL",
+			"CUTIS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"INNOV-innov",
+			"/email-tpl/simples/img/",
+			"#ffcd69",
+			"",
+			"</div>",
+			"<div>",
+			"",
+			"/",
+			"Por favor selecciona",
+			"",
+			"#cta-boton_vista_previa_a",
+			"",
+			"fa-inn",
+			"",
+			"74157",
+			"Por favor selecciona",
+			"<option value=\"\">",
+			"Por favor seleccione",
+			"79240",
+			"'",
+			"h3",
+			"</h2>",
+			"<h2 class=\"h2-titulo\">",
+			"-- Por favor seleccione --",
+			"hide",
+			",",
+			"",
+			"input_formulario_Ccmp",
+			"li",
+			"filters",
+			"menorque",
+			"<",
+			"_",
+			"",
+			"n",
+			"_",
+			");",
+			"$(\".numero-elementos-Cali\").html(numCiudad",
+			" = $('div.Cali').length;",
+			"var numCiudad",
+			"            ",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5441471022,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 85.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}
