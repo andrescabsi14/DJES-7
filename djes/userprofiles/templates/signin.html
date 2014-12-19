@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Sign Up</title>
+	<title>Login</title>
 </head>
 <body>
 	<section>
 		<form action="" method="post">
 			{% csrf_token %}
 			{{form.as_ul}}
-			<input type="submit" value="Register">
+			<input type="submit" value="Login">
 		</form>
 	</section>
 </body>
