@@ -10,4 +10,6 @@ urlpatterns = patterns('',
 
     #Lessons
     url(r'lessons/(?P<title>[\w\-]+)/', 'lessons.views.lesson_view', name='lesson_view'),
+	#Signup
+    url(r'signup/', 'userprofiles.views.signup', name='signup'),
 )
