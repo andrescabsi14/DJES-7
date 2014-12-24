@@ -16,14 +16,24 @@ def lesson_view(request, title):
 	return render(request, 'lesson.html', {'lesson': lesson, 'bio': bio})
 
 
-class LessonDetailView(DetailView):
-	model = Lesson
-	context_object_name = 'fav_lesson'
-	template_name = 'lesson.html'
-
 class LessonListView(ListView):
 	model = Lesson
 	context_object_name = 'lessons'
+	template_name = 'lessons.html'
+	def get_context_data(self, **kwargs):
+		context = super(LessonListView, self).get_context_data(**kwargs)
+		is_auth = False
+
+		if self.request.user.is_authenticated():
+			is_auth = True
+
+		context.update({'is_auth': is_auth})
+		return context
+
+
+class LessonDetailView(DetailView):
+	model = Lesson
+	context_object_name = 'lesson'
 	template_name = 'lesson.html'
 
 #API REST

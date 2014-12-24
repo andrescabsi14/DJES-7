@@ -1,6 +1,7 @@
-from django.conf.urls import patterns, include, url
 from django.conf import settings
+from django.conf.urls import patterns, include, url
 from lessons.views import LessonDetailView, LessonListView
+from django.views.generic import TemplateView
 from django.contrib import admin
 admin.autodiscover()
 from rest_framework import routers
@@ -15,17 +16,14 @@ router.register(r'lessons', LessonViewSet)
 
 #URLS
 urlpatterns = patterns('',
-    # Examples:
-    # url(r'^blog/', include('blog.urls')),
 
-
-    # url(r'^$', 'home.views.index'),
+    #Admin
     url(r'^admin/', include(admin.site.urls)),
+    #Courses
     url(r'^courses/', include('courses.urls')),
     #Lessons
-    #url(r'^lessons/(?P<title>[\w\-]+)/', 'lessons.views.lesson_view', name='lesson_view'),
-    url(r'^lessons/(?P<pk>[\d]+)', LessonDetailView.as_view()),
-    url(r'^lessons/', LessonListView.as_view()),
+    url(r'^lessons/', LessonListView.as_view(), name='lessons'),
+    url(r'^lessons/(?P<title>[\w\-]+)/', LessonDetailView.as_view(), name='lesson'),
 	#Signup
     url(r'^signup/', 'userprofiles.views.signup', name='signup'),
     #SignIn
