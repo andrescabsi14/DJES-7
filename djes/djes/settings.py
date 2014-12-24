@@ -20,11 +20,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 SECRET_KEY = 'g%f3ptd$bs(zr#^jc8+f@7**rjtidyt#txo!7k6u@6f0m)fal5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 TEMPLATE_DEBUG = True
-
-ALLOWED_HOSTS = []
+TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -41,6 +41,8 @@ INSTALLED_APPS = (
     'courses',
     'teachers',
     'userprofiles',
+    ##Dependencies
+    'rest_framework',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -86,7 +88,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
 
 STATIC_URL = '/static/'
-
+STATICFILE_STORAGE = 'django.contrib.staticfiles.storage.CachedStaticFilesStorage'
 #Backends
 #AUTHENTICATION_BACKENDS = (
    # 'userprofiles.backends.EmailBackend',

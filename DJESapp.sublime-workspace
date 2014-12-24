@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"user",
+				"user_cahce"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"cover",
+				"cover"
+			],
+			[
+				"lesson",
+				"Lesson"
+			],
+			[
 				"inl",
 				"inline-block"
 			],
@@ -271,6 +287,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "djes/djes/settings.py",
+			"settings":
+			{
+				"buffer_size": 2246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "djes/lessons/admin.py",
+			"settings":
+			{
+				"buffer_size": 352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "djes/teachers/admin.py",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "djes/lessons/views.py",
+			"settings":
+			{
+				"buffer_size": 854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "djes/lessons/models.py",
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "djes/djes/urls.py",
+			"settings":
+			{
+				"buffer_size": 985,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/innov/Documents/MDS/Señal Memoria/senalMemoria/sites/all/themes/senalmemoria/page.tpl.php",
+			"settings":
+			{
+				"buffer_size": 6258,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -419,7 +491,7 @@
 				"Set Syntax: JSON"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -436,6 +508,22 @@
 	},
 	"file_history":
 	[
+		"/Users/innov/Documents/Development/DJES/djes/lessons/templates/lessons",
+		"/Users/innov/Documents/Development/DJES/djes/userprofiles/forms.py",
+		"/Users/innov/Documents/Development/DJES/djes/djes/settings.py",
+		"/Users/innov/Documents/Development/DJES/djes/djes/urls.py",
+		"/Users/innov/Documents/Development/DJES/djes/userprofiles/backends.py",
+		"/Users/innov/Documents/Development/DJES/djes/userprofiles/views.py",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/views.py",
+		"/Users/innov/Documents/Development/DJES/djes/userprofiles/templates/signin.html",
+		"/Users/innov/Documents/Development/DJES/djes/userprofiles/templates/signup.html",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/templates/lesson.html",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/models.py",
+		"/Users/innov/Documents/Development/DJES/djes/courses/models.py",
+		"/Users/innov/Documents/Development/DJES/djes/teachers/models.py",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/admin.py",
+		"/Users/innov/Documents/Development/DJES/djes/courses/admin.py",
+		"/Users/innov/Documents/Development/DJES/djes/teachers/admin.py",
 		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/_base.scss",
 		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/styles.scss",
 		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/index.html",
@@ -547,23 +635,7 @@
 		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Nosotros.html",
 		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Servicios.html",
 		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Blanca.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Negro.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Madera2.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Madera.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/_System/ContentHolders/menu.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/ModuleTemplates/Menu/Default/container.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Blanca.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/img/demo/Mockup_7.jpg",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/politica-privacidad.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/_System/ContentHolders/body-scripts.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/SEO/Keywords Research/Brainstorming-keywordsINNOV.txt",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/terminos-servicio.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/terminos-servicio.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/Announcement/list.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/Inicio.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/WebApps/Mi Empresa/list.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/ModuleTemplates/Webapps/testimonios/inicio.tpl",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/WebApps/Testimonios/list.html"
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Negro.html"
 	],
 	"find":
 	{
@@ -581,6 +653,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"user_cahce",
+			"first",
 			".carousel-control",
 			"#4EA635",
 			"testimonials_main_title",
@@ -706,9 +780,7 @@
 			"EXITO",
 			"PIEL",
 			"DERMATOLOGICA",
-			"MEDIPIEL",
-			"LOCATEL",
-			"CUTIS"
+			"MEDIPIEL"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -769,13 +841,225 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "djes/djes/settings.py",
+					"settings":
+					{
+						"buffer_size": 2246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1854,
+								1753
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "djes/lessons/admin.py",
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "djes/teachers/admin.py",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "djes/lessons/views.py",
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 4,
+					"file": "djes/lessons/models.py",
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "djes/djes/urls.py",
+					"settings":
+					{
+						"buffer_size": 985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/innov/Documents/MDS/Señal Memoria/senalMemoria/sites/all/themes/senalmemoria/page.tpl.php",
+					"settings":
+					{
+						"buffer_size": 6258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1616.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -807,7 +1091,7 @@
 		"cols":
 		[
 			0.0,
-			0.5441471022,
+			0.5,
 			1.0
 		],
 		"rows":

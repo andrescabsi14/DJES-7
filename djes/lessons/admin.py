@@ -8,5 +8,5 @@ class TrackAdmin(admin.ModelAdmin):
 	#List Filter Attr of model
 	list_filter = ('teacher', 'course')
 	#Search
-	search_fields = ('title', 'teacher')
+	search_fields = ('title', 'teacher__first_name')
 admin.site.register(Lesson, TrackAdmin)
