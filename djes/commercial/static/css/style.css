@@ -242,7 +242,7 @@ a:active {
   height: 76px;
   margin: 0px auto;
   padding-left: 10px;
-  background-image: url('../images/logo.png');
+  background-image: url('../img/logo.png');
   background-position: 100% 45%;
   background-repeat: no-repeat;
   -webkit-transition: all 500ms linear;
@@ -271,7 +271,7 @@ a:active {
 }
 
 .sp-content {
-    background: url(../images/slider/back.png) no-repeat scroll 0 0;
+    background: url(../img/slider/back.png) no-repeat scroll 0 0;
     
     position: relative;
     width: 100%;
@@ -283,7 +283,7 @@ a:active {
 }
 
 .sp-parallax-bg {
-    background: url(../images/slider/cloud.png) repeat-x scroll 0 0;
+    background: url(../img/slider/cloud.png) repeat-x scroll 0 0;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -360,7 +360,7 @@ a:active {
     opacity: 0.8;
     cursor: pointer;
     z-index: 1000;
-    background: transparent url(../images/slider/arrows.png) no-repeat;
+    background: transparent url(../img/slider/arrows.png) no-repeat;
     -webkit-transition: opacity linear 0.3s;
     -moz-transition: opacity linear 0.3s;
     -o-transition: opacity linear 0.3s;
@@ -966,7 +966,7 @@ box-shadow: 5px 5px 0px #20AE61;
   background-color: #ed5565;
 }
 .parlex5 {
-  background-image: url('../images/Fotolia_28906971_Subscription_XXL.jpg');
+  background-image: url('../img/Fotolia_28906971_Subscription_XXL.jpg');
   background-size: 350px;
   background-repeat: repeat;
   background-attachment: fixed;
@@ -1026,7 +1026,7 @@ box-shadow: 5px 5px 0px #20AE61;
 .parlex6 {
   position: static;
   top: 2px;
-  background-image: url('../images/map-top.png');
+  background-image: url('../img/map-top.png');
   background-position: 50% 100%;
   background-size: auto;
   background-repeat: no-repeat;
@@ -1119,12 +1119,12 @@ box-shadow: 5px 5px 0px #20AE61;
   text-align: center;
 }
 .experience {
-  background-image: url('../images/example-bg.png');
+  background-image: url('../img/example-bg.png');
   background-size: 125px;
 }
 .exp {
   background-color: transparent;
-  background-image: url('../images/example-bg.png');
+  background-image: url('../img/example-bg.png');
   background-position: 0% 0%;
   background-size: 125px;
   background-repeat: repeat;
@@ -1162,7 +1162,7 @@ box-shadow: 5px 5px 0px #20AE61;
   
 }
 .team-parlex {
-  background-image: url('../images/team.png');
+  background-image: url('../img/team.png');
   background-size: 350px;
   background-attachment: fixed;
 }
@@ -1262,7 +1262,7 @@ margin-left: 15px;
   text-align: center;
 }
 .footer-parlex {
-  background-image: url('../images/fotterback.png');
+  background-image: url('../img/fotterback.png');
   background-attachment: fixed;
   background-size: cover;
   background-position: center bottom;
@@ -1317,14 +1317,14 @@ font-size: 18px;
 
 .service-parlex {
   padding-top: 0px;
-  background-image: url('../images/parlex.png');
+  background-image: url('../img/parlex.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 .portfolio-parlex {
-  background: url('../images/parlex.png');
+  background: url('../img/parlex.png');
   padding-top: 0px;
   background-size: cover;
   background-repeat: no-repeat;

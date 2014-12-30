@@ -24,7 +24,7 @@
 			'animation' : 'animationend'
 		},
 		// animation end event name
-		animEndEventName = animEndEventNames[ Modernizr.prefixed( 'animation' ) ],
+		//animEndEventName = animEndEventNames[ Modernizr.prefixed( 'animation' ) ],
 		// event type (if mobile use touch events)
 		eventtype = mobilecheck() ? 'touchstart' : 'click',
 		// support for css animations
