@@ -2,7 +2,7 @@ from django.conf import settings
 from django.conf.urls import patterns, include, url
 
 
-from commercial.views import HomeView
+from commercial.views import HomeView, LoginView
 from lessons.views import LessonDetailView, LessonListView
 
 
@@ -22,14 +22,17 @@ router.register(r'lessons', LessonViewSet)
 #URLS
 urlpatterns = patterns('',
 
-    (r'^$', HomeView.as_view()),
+    #Home
+    url(r'^$', HomeView.as_view()),
+    #Login
+    url(r'^ingresar/', LoginView.as_view()),
     #Admin
     url(r'^admin/', include(admin.site.urls)),
     #Courses
     url(r'^courses/', include('courses.urls')),
     #Lessons
-    url(r'^lessons/', LessonListView.as_view(), name='lessons'),
-    url(r'^lessons/(?P<title>[\w\-]+)/', LessonDetailView.as_view(), name='lesson'),
+    #url(r'^lessons/', LessonListView.as_view(), name='lessons'),
+    #url(r'^lessons/(?P<title>[\w\-]+)/', LessonDetailView.as_view(), name='lesson'),
 	#Signup
     url(r'^signup/', 'userprofiles.views.signup', name='signup'),
     #SignIn
