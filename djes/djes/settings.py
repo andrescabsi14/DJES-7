@@ -89,9 +89,22 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
+#MEDIA_ROOT = '/Users/innov/Documents/Development/DJES/djes/media'
+#MEDIA_URL = 'media/'
 
+STATIC_ROOT = '/Users/innov/Documents/Development/DJES/djes/static'
 STATIC_URL = '/static/'
 STATICFILE_STORAGE = 'django.contrib.staticfiles.storage.CachedStaticFilesStorage'
+STATICFILES_DIRS = (
+    # location of your application, should not be public web accessible 
+    '/Users/innov/Documents/Development/DJES/djes/commercial/static',
+)
+
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+)   
+
 #Backends
 #AUTHENTICATION_BACKENDS = (
    # 'userprofiles.backends.EmailBackend',
