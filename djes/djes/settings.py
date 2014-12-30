@@ -24,6 +24,7 @@ DEBUG = True
 
 TEMPLATE_DEBUG = True
 TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
+
 ALLOWED_HOSTS = ['*']
 
 
@@ -41,6 +42,8 @@ INSTALLED_APPS = (
     'courses',
     'teachers',
     'userprofiles',
+    'commercial',
+    'dashboard',
     ##Dependencies
     'rest_framework',
 )
@@ -93,3 +96,12 @@ STATICFILE_STORAGE = 'django.contrib.staticfiles.storage.CachedStaticFilesStorag
 #AUTHENTICATION_BACKENDS = (
    # 'userprofiles.backends.EmailBackend',
 #)
+
+
+from django.contrib import messages
+
+MESSAGE_TAGS = {
+            messages.SUCCESS: 'alert-success success',
+            messages.WARNING: 'alert-warning warning',
+            messages.ERROR: 'alert-danger error'
+}

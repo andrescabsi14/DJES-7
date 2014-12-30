@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"is",
+				"is_auth"
+			],
+			[
+				"Lesson",
+				"LessonListView"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
 				"user",
 				"user_cahce"
 			],
@@ -102,10 +114,6 @@
 			[
 				"ema",
 				"email_body"
-			],
-			[
-				"backgr",
-				"background-position"
 			],
 			[
 				"bac",
@@ -288,26 +296,10 @@
 	"buffers":
 	[
 		{
-			"file": "djes/djes/settings.py",
+			"file": "djes/djes/urls.py",
 			"settings":
 			{
-				"buffer_size": 2246,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "djes/lessons/admin.py",
-			"settings":
-			{
-				"buffer_size": 352,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "djes/teachers/admin.py",
-			"settings":
-			{
-				"buffer_size": 92,
+				"buffer_size": 939,
 				"line_ending": "Unix"
 			}
 		},
@@ -315,7 +307,23 @@
 			"file": "djes/lessons/views.py",
 			"settings":
 			{
-				"buffer_size": 854,
+				"buffer_size": 1095,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "djes/lessons/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 872,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "djes/djes/settings.py",
+			"settings":
+			{
+				"buffer_size": 2601,
 				"line_ending": "Unix"
 			}
 		},
@@ -328,18 +336,10 @@
 			}
 		},
 		{
-			"file": "djes/djes/urls.py",
-			"settings":
-			{
-				"buffer_size": 985,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Users/innov/Documents/MDS/Señal Memoria/senalMemoria/sites/all/themes/senalmemoria/page.tpl.php",
 			"settings":
 			{
-				"buffer_size": 6258,
+				"buffer_size": 6305,
 				"line_ending": "Unix"
 			}
 		}
@@ -347,16 +347,32 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 347.0,
 		"selected_items":
 		[
 			[
-				"sftp",
-				"SFTP: Browse Server…"
-			],
-			[
 				"html",
 				"Set Syntax: HTML5"
+			],
+			[
+				"liqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"django",
+				"Snippet: New django management command"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
 			],
 			[
 				"hml",
@@ -471,10 +487,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"pac",
-				"Package Control: Install Package"
-			],
-			[
 				"PA",
 				"Preferences: Browse Packages"
 			],
@@ -491,7 +503,7 @@
 				"Set Syntax: JSON"
 			]
 		],
-		"width": 575.0
+		"width": 480.0
 	},
 	"console":
 	{
@@ -508,22 +520,31 @@
 	},
 	"file_history":
 	[
+		"/Users/innov/Documents/Development/DJES/djes/lessons/templates/lesson.html",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/templates/lessons.html",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/tests.py",
+		"/Users/innov/Documents/Development/DJES/djes/djes/settings.py",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/static/css/style.css",
+		"/Users/innov/Documents/Development/DJES/djes/home/views.py",
+		"/Users/innov/Documents/Development/DJES/djes/home/templates/index.html",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/views.py",
+		"/Users/innov/Documents/Development/DJES/djes/djes/__init__.py",
+		"/Users/innov/Documents/Development/DJES/djes/courses/urls.py",
+		"/Users/innov/Documents/Development/DJES/djes/courses/views.py",
+		"/Users/innov/Documents/Development/DJES/djes/courses/tests.py",
+		"/Users/innov/Documents/Development/DJES/djes/teachers/admin.py",
+		"/Users/innov/Documents/Development/DJES/djes/lessons/admin.py",
 		"/Users/innov/Documents/Development/DJES/djes/lessons/templates/lessons",
 		"/Users/innov/Documents/Development/DJES/djes/userprofiles/forms.py",
-		"/Users/innov/Documents/Development/DJES/djes/djes/settings.py",
 		"/Users/innov/Documents/Development/DJES/djes/djes/urls.py",
 		"/Users/innov/Documents/Development/DJES/djes/userprofiles/backends.py",
 		"/Users/innov/Documents/Development/DJES/djes/userprofiles/views.py",
-		"/Users/innov/Documents/Development/DJES/djes/lessons/views.py",
 		"/Users/innov/Documents/Development/DJES/djes/userprofiles/templates/signin.html",
 		"/Users/innov/Documents/Development/DJES/djes/userprofiles/templates/signup.html",
-		"/Users/innov/Documents/Development/DJES/djes/lessons/templates/lesson.html",
 		"/Users/innov/Documents/Development/DJES/djes/lessons/models.py",
 		"/Users/innov/Documents/Development/DJES/djes/courses/models.py",
 		"/Users/innov/Documents/Development/DJES/djes/teachers/models.py",
-		"/Users/innov/Documents/Development/DJES/djes/lessons/admin.py",
 		"/Users/innov/Documents/Development/DJES/djes/courses/admin.py",
-		"/Users/innov/Documents/Development/DJES/djes/teachers/admin.py",
 		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/_base.scss",
 		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/sass/styles.scss",
 		"/Users/innov/Documents/Producción/Compulearning/Compulearning.org/2015/web/CompulearningOrg2015/index.html",
@@ -626,16 +647,7 @@
 		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/demostracion-gratuita.html",
 		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/Precio.html",
 		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/muy-pronto-corporativo.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/assets/js/map.min.js",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Inicio-de-Sesion-innov.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/innov/atrae.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Layouts/WebApps/Mis Planes/detail.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Video.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/contactenos.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Nosotros.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Servicios.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Blanca.html",
-		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/Templates/tpl-Negro.html"
+		"/Users/innov/Documents/Producción/INNOV/Marketing/2014SegundoSemestre/Web/INNOV/assets/js/map.min.js"
 	],
 	"find":
 	{
@@ -841,23 +853,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "djes/djes/settings.py",
+					"file": "djes/djes/urls.py",
 					"settings":
 					{
-						"buffer_size": 2246,
+						"buffer_size": 939,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1854,
-								1753
+								443,
+								443
 							]
 						],
 						"settings":
@@ -870,83 +882,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 570.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "djes/lessons/admin.py",
-					"settings":
-					{
-						"buffer_size": 352,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								310,
-								310
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "djes/teachers/admin.py",
-					"settings":
-					{
-						"buffer_size": 92,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								91,
-								91
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "djes/lessons/views.py",
 					"settings":
 					{
-						"buffer_size": 854,
+						"buffer_size": 1095,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								280,
-								280
+								252,
+								263
 							]
 						],
 						"settings":
@@ -962,11 +916,72 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "djes/lessons/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "djes/djes/settings.py",
+					"settings":
+					{
+						"buffer_size": 2601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								876,
+								876
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 95.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1000,41 +1015,10 @@
 				},
 				{
 					"buffer": 5,
-					"file": "djes/djes/urls.py",
-					"settings":
-					{
-						"buffer_size": 985,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								405,
-								405
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
 					"file": "/Users/innov/Documents/MDS/Señal Memoria/senalMemoria/sites/all/themes/senalmemoria/page.tpl.php",
 					"settings":
 					{
-						"buffer_size": 6258,
+						"buffer_size": 6305,
 						"regions":
 						{
 						},
@@ -1091,7 +1075,7 @@
 		"cols":
 		[
 			0.0,
-			0.5,
+			0.594397850286,
 			1.0
 		],
 		"rows":

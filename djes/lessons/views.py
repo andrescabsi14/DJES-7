@@ -13,13 +13,13 @@ def lesson_view(request, title):
 	##Custom Variables for view
 	bio = lesson.teacher.profile
 	##Return lesson if exist
-	return render(request, 'lesson.html', {'lesson': lesson, 'bio': bio})
+	return render(request, 'lessons/lesson.html', {'lesson': lesson, 'bio': bio})
 
 
 class LessonListView(ListView):
 	model = Lesson
 	context_object_name = 'lessons'
-	template_name = 'lessons.html'
+	template_name = 'lessons/lessons.html'
 	def get_context_data(self, **kwargs):
 		context = super(LessonListView, self).get_context_data(**kwargs)
 		is_auth = False
@@ -34,7 +34,7 @@ class LessonListView(ListView):
 class LessonDetailView(DetailView):
 	model = Lesson
 	context_object_name = 'lesson'
-	template_name = 'lesson.html'
+	template_name = 'lessons/lesson.html'
 
 #API REST
 from rest_framework import viewsets

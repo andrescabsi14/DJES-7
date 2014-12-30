@@ -1,6 +1,11 @@
 from django.conf import settings
 from django.conf.urls import patterns, include, url
+
+
+from commercial.views import HomeView
 from lessons.views import LessonDetailView, LessonListView
+
+
 from django.views.generic import TemplateView
 from django.contrib import admin
 admin.autodiscover()
@@ -17,6 +22,7 @@ router.register(r'lessons', LessonViewSet)
 #URLS
 urlpatterns = patterns('',
 
+    (r'^$', HomeView.as_view()),
     #Admin
     url(r'^admin/', include(admin.site.urls)),
     #Courses
