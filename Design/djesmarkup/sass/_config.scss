@@ -1,0 +1,105 @@
+/* ==================================================================
+GLOBAL CONFIG
+=====================================================================*/
+
+//Font Stack
+
+//$font-url--google			: ''
+$font-family--primary		: Helvetica;
+$font-family--secondary		: 'Arial', 'Helvetica';
+
+//Font Weights
+
+$font-weight--thin			: 100;
+$font-weight--light			: 300;
+$font-weight--medium		: 400;
+$font-weight--bold			: 700;
+$font-weight--ultra-bold	: 900;
+
+//Font Size
+
+
+
+//Descriptive Base Colors (name that color)
+
+$white		: 	#fff;
+$black		: 	#0b0b0b;
+$grey		: 	#797e83;
+$light_grey	: 	#dfdfdf;
+
+//Brand Colors
+$light_green		: 	#499932;
+$green				: 	#4EA635;
+$dark_green			: 	#064329;
+
+$product_basico 	: 	#2E318A;
+$product_graficas 	: 	#5E1A5F;
+$product_tablas		: 	#095827;
+$product_macros		: 	#7D1D23;
+
+//General Colors
+$fountain-blue		: 	#52bab3;
+$emerald			: 	#5ece7f;
+$sunglo				: 	#e67478;
+$coral				: 	#ff784f;
+$purple-majesty		: 	#9279c3;
+$scooter			: 	#39add1;
+
+//Color usage
+$color_primary		: 	$green;
+$color_secondary	: 	$light_green;
+$color_accent		: 	$dark_green;
+$color-shadow		: 	rgba($black, .2);
+
+//Text
+$base_font-size		: 	16px;
+$base__line			: 	24px;
+
+
+//Font Icons
+
+//Brands
+$brand_logo				: 	'../img/Logo_compulearning.png';
+$brand_compulearning 	: 	#448CD4;
+//General Icons
+$socialicons_small		: 	'../img/icons/social_sprite.png';
+
+//Nav Icons
+$main_nav1				: 	'../img/icons/nav1.png';
+$main_nav2				: 	'../img/icons/nav2.png';
+$main_nav3				: 	'../img/icons/nav3.png';
+$main_nav4				: 	'../img/icons/nav4.png';
+$main_nav5				: 	'../img/icons/nav5.png';
+$main_nav6				: 	'../img/icons/nav6.png';
+$main_nav7				: 	'../img/icons/nav7.png';
+$main_nav8				: 	'../img/icons/nav8.png';
+$main_nav1_over			: 	'../img/icons/nav1_over.png';
+$main_nav2_over			: 	'../img/icons/nav2_over.png';
+$main_nav3_over			: 	'../img/icons/nav3_over.png';
+$main_nav4_over			: 	'../img/icons/nav4_over.png';
+$main_nav5_over			: 	'../img/icons/nav5_over.png';
+$main_nav6_over			: 	'../img/icons/nav6_over.png';
+$main_nav7_over			: 	'../img/icons/nav7_over.png';
+$main_nav8_over			: 	'../img/icons/nav8_over.png';
+
+//Backgrounds
+
+$green_squares 			: 	'../img/bg/green_squares.jpg';
+$white_elegance 		: 	'../img/bg/white_elegance.png';
+$green_curves			: 	'../img/bg/green_curves.png';
+
+//Buttons
+$buy_now_btn			: 	'../img/btn/buynow.png';
+$buy_now_color			: 	#65510F;
+
+$basico_duracion 		: 	'../img/btn/clock_basico.png';
+$graficas_duracion 		: 	'../img/btn/clock_graficas.png';
+$tablas_duracion 		: 	'../img/btn/clock_tablas.png';
+$macros_duracion 		: 	'../img/btn/clock_macros.png';
+
+$basico_video 			: 	'../img/btn/video_basico.png';
+$graficas_video			: 	'../img/btn/video_graficas.png';
+$tablas_video			: 	'../img/btn/video_tablas.png';
+$macros_video			: 	'../img/btn/video_macros.png';
+
+$download_icon 			: 	'../img/btn/download.png';

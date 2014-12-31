@@ -1,0 +1,28 @@
+/* ==================================================================
+UTILITIES
+=====================================================================*/
+
+//Import if Google Fonts URL is defined
+
+/*if variable-exist(font-url--google){
+	@import url($font-url--google);
+}
+*/
+
+//Calculate em values
+
+@function em($px, $base: $base_font-size) {
+    @return ($px / $base) * 1em;
+}
+
+//Mixins
+
+
+//Placeholder selectors
+%vertical-align {
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}//@extend %vertical-align;

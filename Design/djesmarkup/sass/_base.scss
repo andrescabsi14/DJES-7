@@ -1,0 +1,72 @@
+// Utilities
+@import "_utilities";
+/* ==================================================================
+Base Styles
+=====================================================================*/
+
+@font-face {
+    font-family: 'bebas';
+    src: url('../fonts/bebasneue/bebasneue-webfont.eot');
+    src: url('../fonts/bebasneue/bebasneue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bebasneue/bebasneue-webfont.woff2') format('woff2'),
+         url('../fonts/bebasneue/bebasneue-webfont.woff') format('woff'),
+         url('../fonts/bebasneue/bebasneue-webfont.ttf') format('truetype'),
+         url('../fonts/bebasneue/bebasneue-webfont.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+html
+{
+	position: relative;
+	min-height: 100%;
+}
+body {
+	font-size: $base_font-size;
+	line-height: ($base__line / $base_font-size);
+	font-family: $font-family--primary;
+	height: 100%;
+	width: 100%;
+	background: url($white_elegance) repeat left top;
+}
+header {
+	text-align: center;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	z-index: 100000;
+	width: 100%;
+}
+/* ==================================================================
+Forms
+=====================================================================*/
+
+
+/* ==================================================================
+Main Content
+=====================================================================*/
+.main_content
+{
+	padding: 123px 0 120px 0;
+	float: left;
+	width: 100%;
+	z-index: 0;
+}
+.main_content.inner
+{
+	margin: 20px 0;
+}
+.main_content.inner h1
+{
+	border-bottom: solid 1px $light_grey;
+}
+
+/* ==================================================================
+Buttons Styles
+=====================================================================*/
+
